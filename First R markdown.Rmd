@@ -1,0 +1,29 @@
+---
+title: "First Markdown"
+author: "Chandini Akula"
+date: "September 23, 2018"
+output: html_document
+---
+
+**BOLD** - bold with double asterisks   
+_Italics_ - italics with Underscores  
+`rdsfsghhasbjckahfjkh` - code with backticks  
+
+#Title 
+## Main section
+
+############################## jcvbshv
+
+- item1
+-item2  
+- item3
+
+1 item  
+2 iten2  
+3. item3  
+4.item4  
+
+1.chand  
+1thrr  
+
+1 9fh  
